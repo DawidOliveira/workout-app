@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Photos App:
-![Screen 01](screenshots-screens/01.png)
+![Screen 01](screenshot-screens/01.png)
